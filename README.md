@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Rabindra Rizal — AI, Analytics and Product Leadership" width="100%" />
+<picture>
+  <source media="(max-width: 720px)" srcset="assets/profile-hero-mobile.svg">
+  <img src="assets/profile-hero.svg" alt="Rabindra Rizal — AI, Analytics and Product Leadership" width="100%">
+</picture>
 
 # Rabindra Rizal
 ### Building intelligent systems behind enterprise decisions.
@@ -37,7 +40,10 @@ Work + knowledge + signals → intelligence layer → decisions, context and pro
 
 ## Power BI Intelligence Hub — 30-second view
 
-<img src="assets/pbi-flow.svg" alt="Power BI Intelligence Hub visual flow" width="100%" />
+<picture>
+  <source media="(max-width: 720px)" srcset="assets/pbi-flow-mobile.svg">
+  <img src="assets/pbi-flow.svg" alt="Power BI Intelligence Hub visual flow" width="100%">
+</picture>
 
 **The design principle:** evidence first, AI for judgment, human authority where accountability matters.
 
