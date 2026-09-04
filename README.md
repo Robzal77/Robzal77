@@ -1,99 +1,73 @@
 <div align="center">
 
+<img src="assets/profile-hero.svg" alt="Rabindra Rizal — AI, Analytics and Product Leadership" width="100%" />
+
 # Rabindra Rizal
 ### Building intelligent systems behind enterprise decisions.
 
 **AI × Analytics × Automation × Product Leadership**
 
-I work at the intersection of enterprise analytics, engineering systems and responsible AI — turning ambiguous business problems into products that are measurable, governable and usable after launch.
-
 [Portfolio](https://robzal77.github.io/rabindra-portfolio/) · [Résumé](https://robzal77.github.io/) · [LinkedIn](https://www.linkedin.com/in/rabindrarizal)
 
 </div>
 
----
-
-## What I build
-
-```text
-BUSINESS PROBLEM
-      ↓
-PRODUCT + ARCHITECTURE
-      ↓
-DATA / AUTOMATION / AI
-      ↓
-EVIDENCE + HUMAN CONTROL
-      ↓
-ADOPTION
-      ↓
-MEASURABLE OUTCOME
-```
-
-My work is less about adding AI to a dashboard and more about redesigning the system around the decision.
-
 ## Flagship systems
 
-| | System | What makes it interesting |
-|---|---|---|
-| 🟨 | **Power BI Intelligence Hub** | An engineering intelligence layer for Power BI: inspect PBIP/TMDL/PBIR, build evidence, score health, reason with AI, classify remediation risk and keep humans authoritative for material changes. **Private implementation · public architecture case study.** |
-| 🟩 | **Nagrik Resolve** | A synthetic-data civic-service prototype built around reconciliation, verified rules, pre-flight readiness, failure recovery, accessibility and explicit trust boundaries. **Private implementation · public product case study.** |
-| 🟦 | **Enterprise BI Engineering** | Treating BI as software engineering: semantic standards, PBIP/TMDL, Git, automated validation, health scoring, governance and repeatable delivery systems. |
-| 🟪 | **Robin Intelligence OS** | A personal operating-system concept connecting work, knowledge and decision signals into one intelligence layer while keeping private data private. |
+### 🟨 Power BI Intelligence Hub
+**AI engineering intelligence for Power BI.**  
+Turns report artifacts into evidence, health signals, risk-classified improvements and controlled remediation.
 
-### → [Explore the flagship case studies](https://github.com/Robzal77/rabindra-portfolio#flagship-builds)
+→ [Read the case study](https://github.com/Robzal77/rabindra-portfolio/blob/main/case-studies/power-bi-intelligence-hub.md)
 
----
+### 🟩 Nagrik Resolve
+**Trust-oriented digital public-service workflow.**  
+Reconciliation, verified rules, pre-flight readiness, failure recovery, accessibility and explicit trust boundaries.
 
-## Power BI Intelligence Hub — the idea in 30 seconds
+→ [Read the case study](https://github.com/Robzal77/rabindra-portfolio/blob/main/case-studies/nagrik-resolve.md)
 
-```mermaid
-flowchart LR
-    A[PBIP / TMDL / PBIR] --> B[Deterministic analysis]
-    B --> C[Structured evidence]
-    C --> D[Engineering health]
-    D --> E[AI reasoning]
-    E --> F{Risk}
-    F -->|Low| G[Safe remediation]
-    F -->|Medium| H[Engineering review]
-    F -->|High| I[Human approval]
-    G --> J[Regression validation]
-    H --> J
-    I --> J
-    J --> K[Git + living docs]
-```
+### 🟦 Enterprise BI Engineering
+**Treating BI like software engineering.**  
+Semantic standards · PBIP/TMDL · Git · automated validation · health scoring · governance.
 
-> **Source evidence → deterministic validation → AI reasoning → human authority.**  
-> Multiple AI agents agreeing with one another is not validation.
-
-**Designed health domains:** `Model Quality` · `Performance` · `DAX` · `Report UX` · `Accessibility` · `Security` · `Documentation` · `Governance` · `Maintainability`
-
-### → [Read the Power BI Intelligence Hub case study](https://github.com/Robzal77/rabindra-portfolio/blob/main/case-studies/power-bi-intelligence-hub.md)
+### 🟪 Robin Intelligence OS
+**A private personal intelligence operating-system concept.**  
+Work + knowledge + signals → intelligence layer → decisions, context and proactive actions.
 
 ---
 
-## Selected evidence
+## Power BI Intelligence Hub — 30-second view
 
-| Enterprise problem | System response | Outcome / signal |
-|---|---|---|
-| Multi-zone sustainability reporting | Governed analytics product + operating controls | **90% less manual effort · 97% reported accuracy** |
-| Fragmented BI delivery | Standards + automation + reusable engineering model | **~7 FTE annual value · 40% less fragmentation · 67% less recurring work** |
-| Slow European daily-sales reporting | Modernized analytics product + adoption loop | **13h → 2h refresh · 260+ daily views · NPS 46 → 81** |
+<img src="assets/pbi-flow.svg" alt="Power BI Intelligence Hub visual flow" width="100%" />
 
-*Portfolio metrics are presented as professional case-study evidence; confidential employer data and proprietary implementation details are intentionally excluded.*
+**The design principle:** evidence first, AI for judgment, human authority where accountability matters.
+
+**Designed health domains:** Model Quality · Performance · DAX · Report UX · Accessibility · Security · Documentation · Governance · Maintainability
 
 ---
 
-## How I think about enterprise AI
+## Selected proof
 
-**Deterministic where exactness is possible. AI where judgment adds value. Humans where accountability matters.**
+### 90% less manual effort
+Global sustainability reporting moved toward a governed analytics product with stronger operating controls and **97% reported accuracy**.
 
-That translates into five design rules:
+### 13h → 2h refresh
+European daily-sales reporting was modernized while reaching **260+ daily views** and improving **NPS from 46 → 81**.
 
-1. Evidence before explanation.
-2. Contracts before free-form agent handoffs.
-3. Risk classification before automated change.
-4. Tests and Git own durable state — agents do not.
-5. Adoption and measurable outcomes matter more than an impressive demo.
+### ~7 FTE annual value
+A reusable BI engineering operating model targeted **40% less fragmentation** and **67% less recurring work**.
+
+<sub>Case-study evidence only. Confidential employer data and proprietary implementation details are intentionally excluded.</sub>
+
+---
+
+## How I design enterprise AI
+
+**Evidence before explanation.**  
+**Deterministic where exactness is possible.**  
+**AI where judgment adds value.**  
+**Humans where accountability matters.**
+
+I prefer contracts over free-form agent handoffs, risk classification before automated change, and tests/Git as durable state rather than hidden agent memory.
 
 ---
 
