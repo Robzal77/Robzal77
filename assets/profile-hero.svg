@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Rabindra Rizal — AI, Analytics and Product Leadership</title>
+<desc id="desc">Profile hero showing flagship systems and measurable enterprise outcomes.</desc>
+<rect width="1200" height="620" rx="28" fill="#0b0f14"/>
+<rect x="20" y="20" width="1160" height="580" rx="24" fill="#111821" stroke="#2a3440"/>
+<text x="64" y="92" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#ffcc33">AI × ANALYTICS × AUTOMATION × PRODUCT</text>
+<text x="64" y="152" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700" fill="#ffffff">I build intelligent systems</text>
+<text x="64" y="202" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700" fill="#ffffff">behind enterprise decisions.</text>
+<text x="64" y="250" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#aeb9c6">From ambiguous business problems to governed products, AI workflows and measurable outcomes.</text>
+
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="64" y="300" width="250" height="120" rx="16" fill="#171f29" stroke="#3a4653"/>
+<text x="86" y="338" font-size="18" font-weight="700" fill="#ffcc33">POWER BI INTELLIGENCE HUB</text>
+<text x="86" y="370" font-size="16" fill="#ffffff">Evidence → AI reasoning →</text>
+<text x="86" y="395" font-size="16" fill="#ffffff">risk-based human control</text>
+
+<rect x="330" y="300" width="250" height="120" rx="16" fill="#171f29" stroke="#3a4653"/>
+<text x="352" y="338" font-size="18" font-weight="700" fill="#7ee0b8">NAGRIK RESOLVE</text>
+<text x="352" y="370" font-size="16" fill="#ffffff">Verified rules, recovery</text>
+<text x="352" y="395" font-size="16" fill="#ffffff">journeys and trust by design</text>
+
+<rect x="596" y="300" width="250" height="120" rx="16" fill="#171f29" stroke="#3a4653"/>
+<text x="618" y="338" font-size="18" font-weight="700" fill="#69a9ff">ENTERPRISE BI ENGINEERING</text>
+<text x="618" y="370" font-size="16" fill="#ffffff">PBIP · TMDL · Git · health</text>
+<text x="618" y="395" font-size="16" fill="#ffffff">scoring · governance</text>
+
+<rect x="862" y="300" width="250" height="120" rx="16" fill="#171f29" stroke="#3a4653"/>
+<text x="884" y="338" font-size="18" font-weight="700" fill="#c296ff">ROBIN INTELLIGENCE OS</text>
+<text x="884" y="370" font-size="16" fill="#ffffff">Context + signals + decisions</text>
+<text x="884" y="395" font-size="16" fill="#ffffff">in one private operating layer</text>
+
+<text x="64" y="478" font-size="17" font-weight="700" fill="#aeb9c6">SELECTED PROOF</text>
+<text x="64" y="530" font-size="28" font-weight="700" fill="#ffffff">90% less manual effort</text>
+<text x="405" y="530" font-size="28" font-weight="700" fill="#ffffff">13h → 2h refresh</text>
+<text x="708" y="530" font-size="28" font-weight="700" fill="#ffffff">~7 FTE annual value</text>
+<text x="64" y="565" font-size="16" fill="#8e9aa7">Enterprise case-study evidence · confidential implementation details excluded</text>
+</g>
+</svg>
