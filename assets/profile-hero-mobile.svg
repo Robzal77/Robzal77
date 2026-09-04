@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="980" viewBox="0 0 720 980" role="img" aria-labelledby="title desc">
+<title id="title">Rabindra Rizal mobile profile hero</title><desc id="desc">Mobile-first GitHub profile hero with flagship systems and selected proof.</desc>
+<rect width="720" height="980" rx="28" fill="#0b0f14"/>
+<rect x="18" y="18" width="684" height="944" rx="24" fill="#111821" stroke="#2a3440"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="44" y="70" font-size="20" font-weight="700" fill="#ffcc33">AI × ANALYTICS × AUTOMATION × PRODUCT</text>
+<text x="44" y="124" font-size="38" font-weight="700" fill="#fff">I build intelligent systems</text>
+<text x="44" y="170" font-size="38" font-weight="700" fill="#fff">behind enterprise decisions.</text>
+<text x="44" y="214" font-size="18" fill="#aeb9c6">From complex business problems to governed products,</text>
+<text x="44" y="240" font-size="18" fill="#aeb9c6">AI workflows and measurable outcomes.</text>
+
+<rect x="44" y="286" width="632" height="126" rx="18" fill="#171f29" stroke="#3a4653"/>
+<text x="66" y="324" font-size="20" font-weight="700" fill="#ffcc33">POWER BI INTELLIGENCE HUB</text>
+<text x="66" y="356" font-size="17" fill="#fff">Evidence → AI reasoning → risk-based human control</text>
+<text x="66" y="385" font-size="15" fill="#aeb9c6">Engineering intelligence for enterprise BI</text>
+
+<rect x="44" y="430" width="632" height="126" rx="18" fill="#171f29" stroke="#3a4653"/>
+<text x="66" y="468" font-size="20" font-weight="700" fill="#7ee0b8">NAGRIK RESOLVE</text>
+<text x="66" y="500" font-size="17" fill="#fff">Verified rules · recovery journeys · trust by design</text>
+<text x="66" y="529" font-size="15" fill="#aeb9c6">Accessible, explainable civic-service workflow</text>
+
+<rect x="44" y="574" width="632" height="126" rx="18" fill="#171f29" stroke="#3a4653"/>
+<text x="66" y="612" font-size="20" font-weight="700" fill="#69a9ff">ENTERPRISE BI ENGINEERING</text>
+<text x="66" y="644" font-size="17" fill="#fff">PBIP · TMDL · Git · health scoring · governance</text>
+<text x="66" y="673" font-size="15" fill="#aeb9c6">Reusable engineering systems, not one-off reports</text>
+
+<text x="44" y="748" font-size="16" font-weight="700" fill="#aeb9c6">SELECTED PROOF</text>
+<rect x="44" y="778" width="196" height="116" rx="16" fill="#151b23" stroke="#303b47"/>
+<text x="62" y="821" font-size="25" font-weight="700" fill="#fff">90%</text><text x="62" y="849" font-size="15" fill="#aeb9c6">less manual effort</text>
+<rect x="262" y="778" width="196" height="116" rx="16" fill="#151b23" stroke="#303b47"/>
+<text x="280" y="821" font-size="25" font-weight="700" fill="#fff">13h → 2h</text><text x="280" y="849" font-size="15" fill="#aeb9c6">refresh time</text>
+<rect x="480" y="778" width="196" height="116" rx="16" fill="#151b23" stroke="#303b47"/>
+<text x="498" y="821" font-size="25" font-weight="700" fill="#fff">~7 FTE</text><text x="498" y="849" font-size="15" fill="#aeb9c6">annual value</text>
+<text x="44" y="930" font-size="14" fill="#7f8b98">Case-study evidence · confidential details intentionally excluded</text>
+</g></svg>
