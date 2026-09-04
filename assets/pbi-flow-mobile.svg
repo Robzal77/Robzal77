@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1120" viewBox="0 0 720 1120" role="img" aria-labelledby="t d">
+<title id="t">Power BI Intelligence Hub mobile flow</title><desc id="d">Mobile vertical flow from intake to human gate with evidence-first AI engineering principles.</desc>
+<rect width="720" height="1120" rx="28" fill="#0d1117"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="42" y="62" font-size="28" font-weight="700" fill="#fff">Power BI Intelligence Hub</text>
+<text x="42" y="94" font-size="16" fill="#8b949e">Evidence-backed engineering decisions for Power BI</text>
+
+<rect x="42" y="130" width="636" height="112" rx="18" fill="#151b23" stroke="#39424e"/>
+<circle cx="78" cy="166" r="16" fill="#ffd33d"/><text x="108" y="173" font-size="20" font-weight="700" fill="#fff">1 · INTAKE</text>
+<text x="78" y="208" font-size="16" fill="#c9d1d9">PBIP · TMDL · PBIR · requirement</text>
+<path d="M360 242 V274" stroke="#6e7681" stroke-width="3"/><path d="M353 266 L360 278 L367 266" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+<rect x="42" y="282" width="636" height="112" rx="18" fill="#10233e" stroke="#2f81f7"/>
+<circle cx="78" cy="318" r="16" fill="#2f81f7"/><text x="108" y="325" font-size="20" font-weight="700" fill="#fff">2 · ANALYSE</text>
+<text x="78" y="360" font-size="16" fill="#c9d1d9">Semantic model · DAX · relationships · filters · lineage</text>
+<path d="M360 394 V426" stroke="#6e7681" stroke-width="3"/><path d="M353 418 L360 430 L367 418" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+<rect x="42" y="434" width="636" height="112" rx="18" fill="#2b2010" stroke="#d29922"/>
+<circle cx="78" cy="470" r="16" fill="#d29922"/><text x="108" y="477" font-size="20" font-weight="700" fill="#fff">3 · DIAGNOSE</text>
+<text x="78" y="512" font-size="16" fill="#c9d1d9">Evidence · severity · impact · remediation risk</text>
+<path d="M360 546 V578" stroke="#6e7681" stroke-width="3"/><path d="M353 570 L360 582 L367 570" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+<rect x="42" y="586" width="636" height="112" rx="18" fill="#0f2a22" stroke="#3fb950"/>
+<circle cx="78" cy="622" r="16" fill="#3fb950"/><text x="108" y="629" font-size="20" font-weight="700" fill="#fff">4 · REMEDIATE</text>
+<text x="78" y="664" font-size="16" fill="#c9d1d9">Safe fixes · standards · engineering recommendations</text>
+<path d="M360 698 V730" stroke="#6e7681" stroke-width="3"/><path d="M353 722 L360 734 L367 722" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+<rect x="42" y="738" width="636" height="112" rx="18" fill="#241b36" stroke="#a371f7"/>
+<circle cx="78" cy="774" r="16" fill="#a371f7"/><text x="108" y="781" font-size="20" font-weight="700" fill="#fff">5 · VALIDATE</text>
+<text x="78" y="816" font-size="16" fill="#c9d1d9">Regression · quality gates · performance · business checks</text>
+<path d="M360 850 V882" stroke="#6e7681" stroke-width="3"/><path d="M353 874 L360 886 L367 874" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+<rect x="42" y="890" width="636" height="112" rx="18" fill="#231b1b" stroke="#f85149"/>
+<circle cx="78" cy="926" r="16" fill="#f85149"/><text x="108" y="933" font-size="20" font-weight="700" fill="#fff">6 · HUMAN GATE</text>
+<text x="78" y="968" font-size="16" fill="#c9d1d9">Business logic · security · grain · material changes</text>
+
+<rect x="42" y="1030" width="636" height="58" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="64" y="1066" font-size="15" font-weight="700" fill="#ffd33d">Evidence first</text><text x="177" y="1066" font-size="15" fill="#c9d1d9">→ deterministic validation → AI judgment → human authority</text>
+</g></svg>
